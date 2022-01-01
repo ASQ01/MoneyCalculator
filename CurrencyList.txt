@@ -1,0 +1,14 @@
+usd@US dollar@$
+jpy@Japanese yen@¥
+gbp@Pound sterling@£
+aud@Australian dollar@$
+cad@Canadian dollar@$
+cny@Chinese yuan@¥
+hkd@Hong Kong dollar@$
+nzd@New Zealand dollar@$
+ars@Argentinine peso@$
+mxn@Mexican peso@$
+brl@Brasilian real@R$
+ves@Venezuelan Bolivar@Bs
+chf@Swiss Franc@CHF
+eur@Euro@€
